@@ -1,0 +1,27 @@
+{
+    "name": "Karan Dubey",
+    "email": "karandubey25kd@gmail.com",
+    "phone": "+91 7704969739",
+    "skills": [
+        "python",
+        "sql",
+        "excel",
+        "power bi",
+        "data analysis",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "r",
+        "mysql",
+        "postgresql",
+        "scikit-learn",
+        "git",
+        "leadership",
+        "time management",
+        "dax",
+        "cosine similarity",
+        "eda"
+    ],
+    "total_skills": 18,
+    "raw_text": "Karan Dubey\nData Analyst\nNawada, New Delhi-110059 \u2014 karandubey25kd@gmail.com \u2014 +91 7704969739\nLinkedIn \u2014 GitHub\nCareer Objective\nAspiring Data Analyst with a BTech 2026 degree and hands-on skills in Excel, SQL, Python &\nPower BI. Passionate about transforming raw data into meaningful insights that drive smart\nbusiness decisions. Ready to bring fresh energy, analytical thinking, and a growth mindset to a\nforward-thinking team.\nEducation\nBachelor of Technology (CSE)\n2022 \u2013 2026\nTeerthanker Mahaveer University, Moradabad, Uttar Pradesh\nIntermediate\n2020 \u2013 2021\nShanti Smarak I C, Amaura Azamgarh, Uttar Pradesh\nHigh School\n2018 \u2013 2019\nShanti Smarak I C, Amaura Azamgarh, Uttar Pradesh\nExperience\nCodSoft \u2013 Data Analysis Internship\n\u2022 Completed a virtual internship involving real-world data analysis projects.\n\u2022 Cleaned, processed, and analyzed datasets using Python and Excel.\n\u2022 Conducted exploratory data analysis (EDA) and created meaningful visualizations.\n\u2022 Prepared structured reports and delivered actionable insights within project timelines.\nProjects\nVirat Kohli IPL Performance Dashboard\n\u2022 Created an interactive dashboard to visualize cricket performance over the years.\n\u2022 Analyzed match-wise data including runs, strike rate, centuries, and performance trends.\n\u2022 Used charts and slicers for dynamic filtering.\n\u2022 Identified patterns, peak performance periods, and consistency.\n\u2022 Tools Used: Power BI (DAX, Charts, Filters)\nMovie Recommendation System\n\u2022 Built a content-based movie recommendation system using Python.\n\u2022 Used dataset with features like title, genre, cast, and keywords.\n\u2022 Applied CountVectorizer and Cosine Similarity.\n\u2022 Tools Used: Pandas, NumPy, Scikit-learn\nTelecom Analytics Dashboard\n\u2022 Analyzed 10,000+ telecom records across 10 countries using PostgreSQL and SQL.\n\u2022 Built 11 interactive Power BI visualizations covering Revenue, Churn, and ARPU metrics.\n\u2022 Identified key business insights to support data-driven decision-making.\n\u2022 Tools Used: PostgreSQL, Power BI, SQL\nCertifications\nMaster of Data Analytics Program \u2014 The iScale\nSkills\nProgramming Languages: Python\nLibraries: NumPy, Pandas, Matplotlib\nDatabase Management: SQL, MySQL\nTechnical Skills: Excel, Power BI\nSoft Skills: Teamwork, Leadership, Time Management\n"
+}
